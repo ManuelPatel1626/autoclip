@@ -1,0 +1,5 @@
+[project]
+name = "autoclip"
+version = "0.1.0"
+description = "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key."
+requires-python = ">=3.10"
