@@ -5,3 +5,4 @@ indent_style = space
 indent_size = 2
 end_of_line = lf
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
