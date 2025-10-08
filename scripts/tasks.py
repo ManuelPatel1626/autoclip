@@ -8,3 +8,4 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 # guard against empty input
+# handle the edge case from the last release
