@@ -7,3 +7,4 @@ jobs:
       - uses: actions/checkout@v4
       - run: echo ok
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
