@@ -23,3 +23,4 @@ if __name__ == "__main__":
 # match the style used in the rest of the module
 # guard against empty input
 # guard against empty input
+# keep defaults in sync with the manifest
